@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-icu0&theme=dark&layout=compact)
 
 <!-- 3D 代码贡献图 profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" /></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/cool-icu0/cool-icu0/profile-3d-contrib/profile-night-rainbow.svg" /></div>

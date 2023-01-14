@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
+
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=cool-icu0&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-icu0&theme=dark&layout=compact)
+使用语音
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-icu0&theme=dark&layout=compact) -->
 
-<!-- 3D 代码贡献图 profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/cool-icu0/cool-icu0/profile-3d-contrib/profile-night-rainbow.svg" /></div>

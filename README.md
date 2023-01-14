@@ -1,26 +1,15 @@
-### Hi there 👋
+## Hi Welcome to my Github 👋
 
-<!--
-**cool-icu0/cool-icu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 编程笔记库:https://www.yuque.com/icu0
 
 ![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
 <br/>
 
+
+### Github提交次数<br/>
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=cool-icu0&show_icons=true&theme=dark&count_private=true)
 
-<!-- 使用语音 -->
+
+<!-- github使用语言 -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-icu0&theme=dark&layout=compact) -->
 

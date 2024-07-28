@@ -6,7 +6,7 @@
 ### 1.小镇程序员，激流勇进，逆流而上
 ### 2.技能树
 ![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vite,webpack,vue,react,electron,express,nodejs,nestjs,pinia,nuxtjs,d3) </br>
-![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>
 ![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua)
 
 ### 其他

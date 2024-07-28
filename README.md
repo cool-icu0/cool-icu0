@@ -9,15 +9,12 @@
 ![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>
 ![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua)
 
-### 其他
-### 百万编程笔记库:https://www.yuque.com/icu0
 
+### 3.百万编程笔记库:https://www.yuque.com/icu0
+### 4.博客：cool-icu.blog.csdn.net
 ![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
 <br/>
-
-### Github提交次数<br/>
-#### 流水不争先，争的是滔滔不绝<br/>
+### 流水不争先，争的是滔滔不绝<br/>
+#### Github提交次数<br/>
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=cool-icu0&show_icons=true&theme=dark&count_private=true)
-<!-- github使用语言 -->
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-icu0&theme=dark&layout=compact) -->
-### 下一站：上岸
+### 目标：成为一名后端架构师

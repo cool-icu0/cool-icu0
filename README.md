@@ -1,6 +1,6 @@
-## Hi Welcome to my Github 👋
+
 <h2 align="center"> 
- <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+Welcome+to my+Github+，+I+am+Cool+!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hi!+Welcome+to my+Github+👋" alt="Typing SVG" />
 </h2>
 
 ## 关于我

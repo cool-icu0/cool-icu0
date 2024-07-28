@@ -2,8 +2,11 @@
 <h2 align="center"> 
  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+I+am+Cool+!" alt="Typing SVG" />
 </h2>
-
-### 小镇程序员，激流勇进，逆流而上
+## 关于我
+### 1.小镇程序员，激流勇进，逆流而上
+### 2.技能树
+#### 前端 ![My Skills](https://skillicons.dev/icons?i=java,python,vue)
+#### 后端 ![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)
 
 ### 百万编程笔记库:https://www.yuque.com/icu0
 

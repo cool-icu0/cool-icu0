@@ -3,7 +3,7 @@
 </h2>
 
 ### 1.小镇程序员，激流勇进，逆流而上
-百万编程笔记库:https://www.yuque.com/icu0 &nbsp;&nbsp; 博客：[cool-icu.blog.csdn.net](https://cool-icu.blog.csdn.net/)
+百万编程笔记库:[语雀花园💤](https://www.yuque.com/icu0) &nbsp;&nbsp; 博客：[CSDN💬](https://cool-icu.blog.csdn.net/)
 ### 2.技能树(my Skills)
 ![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vite,webpack,vue,react,electron,express,nodejs,nestjs,pinia,nuxtjs,d3) </br>
 ![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>

@@ -6,7 +6,7 @@
 ### 1.小镇程序员，激流勇进，逆流而上
 ### 2.技能树
 #### 前端 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue,react,electron,express,nodejs,nestjs,pinia,d3)
-#### 后端 ![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)
 ### 其他
 ### 百万编程笔记库:https://www.yuque.com/icu0
 

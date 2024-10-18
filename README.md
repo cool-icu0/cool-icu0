@@ -5,9 +5,9 @@
 ### 小镇程序员，激流勇进，逆流而上
 百万编程笔记库:[语雀花园💤](https://www.yuque.com/icu0) 、博客：[CSDN💬](https://cool-icu.blog.csdn.net/)
 ### 技能树(My Skills)
-![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vite,vue,react,redux,nodejs,nestjs,pinia,nuxtjs,nextjs,d3) </br>
-![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git,vercel) </br>
-![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua,electron,express,webpack)
+![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vue,react,redux,nodejs,nestjs,pinia,nuxtjs,nextjs,d3) </br>
+![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua,electron,express,webpack,vercel,vite)
 
 ### 流水不争先，争的是滔滔不绝<br/>
 

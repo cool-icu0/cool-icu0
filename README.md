@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+I+am+Cool" alt="Typing SVG" />
 </h2>
 
-### 小镇程序员，热爱，是编程的第一法则
+### 小镇程序员，热爱 是编程的第一法则
 百万编程笔记库:[语雀花园💤](https://www.yuque.com/icu0) 、博客：[CSDN💬](https://cool-icu.blog.csdn.net/)
 ### 技能树(My Skills)
 ![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vue,react,redux,nodejs,nestjs,pinia,nuxtjs,nextjs,d3) </br>

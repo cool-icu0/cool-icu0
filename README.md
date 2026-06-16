@@ -4,7 +4,7 @@
 
 
 ### 小镇程序员，热爱 是编程的第一法则
-百万编程笔记库:[语雀花园💤](https://www.yuque.com/icu0) 、博客：[CSDN💬](https://cool-icu.blog.csdn.net/)
+百万编程笔记库:[语雀花园💤](https://www.yuque.com/icu0)
 ### 技能树(My Skills)
 ![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vue,react,redux,nodejs,nestjs,pinia,nuxtjs,nextjs,d3) </br>
 ![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>
